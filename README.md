@@ -115,7 +115,7 @@ Through this project, I learned:
 
 ## 📸 Screenshots
 
-Add screenshots of your notebook or output inside the `screenshots` folder.
+Screenshot 2026-07-15 200904.png
 
 Example:
 
