@@ -115,7 +115,7 @@ Through this project, I learned:
 
 ## 📸 Screenshots
 ```
-Screenshot 2026-07-15 200904.png
+Output screenshort.png
 ```
 
 ---
