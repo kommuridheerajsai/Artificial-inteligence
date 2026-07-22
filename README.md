@@ -41,7 +41,7 @@ This project is ideal for beginners learning Python loops, functions, conditions
 ```
 Cleaning-Robot/
 │
-├── Untitled2.py
+├── Ai Robot.py
 ├── README.md
 └── screenshots/
 ```
@@ -82,7 +82,7 @@ Spot cleaned!
 
 AFTER - Clean Room
 
-🟩 🟩 🟩 🟩 🟩
+🟩 🟩 🟩 🟩 🟩 
 ```
 
 ---
@@ -137,9 +137,3 @@ Output screenshort.png
 **Dheeraj Sai Kommuri**
 
 B.Tech CSE (AI & ML)
-
----
-
-## ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub and feel free to fork it!
