@@ -41,7 +41,7 @@ This project is ideal for beginners learning Python loops, functions, conditions
 ```
 Cleaning-Robot/
 │
-├── Untitled2.ipynb
+├── Untitled2.py
 ├── README.md
 └── screenshots/
 ```
